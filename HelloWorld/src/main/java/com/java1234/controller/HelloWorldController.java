@@ -8,6 +8,6 @@ public class HelloWorldController {
 
 	@RequestMapping("/helloWorld")
 	public String say(){
-		return "spring boot 你大爷";
+		return "spring boot 你大爷sssssssssssss";
 	}
 }
